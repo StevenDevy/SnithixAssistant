@@ -13,7 +13,7 @@ Highly optimised and runs in background
   
 ## Installation
 
-Install python from [python.org](python.org) and clone this repo. Then open cmd in the folder where it is cloned and type 'python Snithix.py' or if you have python3, then type 'python3 Snithix.py'
+Install python from [python.org](https://python.org) and clone this repo. Then open cmd in the folder where it is cloned and type 'python Snithix.py' or if you have python3, then type 'python3 Snithix.py'
 
 ## Acknowledgements
 
