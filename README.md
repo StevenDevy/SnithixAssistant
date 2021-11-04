@@ -15,7 +15,7 @@ Highly optimised and runs in background
 
 Install python from [python.org](https://python.org) and clone this repo. Then open cmd in the folder where it is cloned and type 'python Snithix.py' or if you have python3, then type 'python3 Snithix.py'
 
-## Acknowledgements
+## Please read
 
  - This is not finished yet. You can fork this repo and add more features to make this better. Remember to credit me ;)
  - It is made using SpeechRecognition, pyttsx3 and wikipedia api
