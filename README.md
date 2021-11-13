@@ -9,7 +9,7 @@ A virtual assistant made in python
   
 ## Optimizations
 
-Highly optimised and runs in background
+Highly optimised and runs in foreground
   
 ## Installation
 
